@@ -1,0 +1,10 @@
+<!-- This file was auto-generated from WSDL -->
+<!-- by the Apache Axis2 version: 1.4.1  Built on : Aug 13, 2008 (05:03:35 LKT) -->
+<service name="DmsServer">
+<parameter name="ServiceClass">DmsServer</parameter>
+<description>DmsServer Service
+            </description>
+<operation name="ProductComplete">
+<parameter name="wsamapping">urn:ProductComplete</parameter>
+</operation>
+</service>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header xmlns:wsa="http://www.w3.org/2005/08/addressing">
+    </soapenv:Header>
+    <soapenv:Body>
+        <n:ProductComplete xmlns:n="http://server.ips.com">
+        <n:productCategory>han</n:productCategory>
+        <n:productName>xiangduo</n:productName>
+        </n:ProductComplete>
+    </soapenv:Body>
+</soapenv:Envelope>
